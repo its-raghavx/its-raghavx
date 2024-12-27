@@ -2,9 +2,12 @@
 )
 <h1 align="center">Hi 👋, I'm Raghav Rana</h1>
 <h3 align="center">A cybersecurity enthusiast and certified ethical hacker from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-raghavx&label=Profile%20views&color=0e75b6&style=flat" alt="its-raghavx" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-raghavx" alt="its-raghavx" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6f78b79e8a3953a77b50dfd566277f1a9b42ced6daea16ea29c95978900d785b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62622f33372f35632f62623337356364643635353138346361323731356163353035396537333635312e676966">
 
 - 🔭 I’m currently working on **Cyber Security Skills**
 
